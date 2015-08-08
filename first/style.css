@@ -1,0 +1,85 @@
+html,body	{
+	width: 100%;
+	height: 100%;
+}
+
+header	{
+	height: 100px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.head	{
+	width: 30%;
+}
+
+.first	{
+	width: 100%;
+	display: block;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+p	{
+	padding: 0% 1%;
+}
+
+
+.second	{
+	width: 96%;
+	height: 35%;
+	padding: 2%;
+}
+
+.scLeft	{
+	height: 100%;
+	width: 33%;
+	float: left;
+}
+
+.scRight	{
+	height: 100%;
+	width: 63%;
+	float: left;
+}
+
+
+
+.third	{
+	width: 96%;
+	height: 15%;
+	padding: 2%;
+}
+
+.thLeft	{
+	height: 100%;
+	width: 68%;
+	float: left;
+}
+
+.thRight	{
+	height: 100%;
+	width: 28%;
+	float: left;
+	display: flex;
+	justify-content: center;
+}
+
+.thRightCent	{
+	height: 100%;
+	width: 70%;
+}
+
+
+
+
+.red	{
+	background: #D0021B;
+}
+
+.blue	{
+	background: #4A90E2;
+}
+
+.coal	{
+	background: #4A4A4A;
+}
